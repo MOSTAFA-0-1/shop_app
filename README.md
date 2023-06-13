@@ -32,4 +32,4 @@ This is a mobile application built with Flutter that allows users to buy  variou
 
 ## Conclusion
 
-This app provides a seamless and user-friendly experience for buying and selling products. It utilizes the latest technologies to ensure secure user authentication and data management. Thank you for using our app!
+This app provides a seamless and user-friendly experience for buying and selling products. It utilizes the latest technologies to ensure secure user authentication and data management. Thank you for using my app!
