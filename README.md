@@ -2,6 +2,13 @@
 
 This is a mobile application built with Flutter that allows users to buy  various products. 
 
+https://github.com/MOSTAFA-0-1/shop_app/assets/96666077/78467613-86b6-49a8-b87b-b145a3f3fd5c
+
+https://github.com/MOSTAFA-0-1/shop_app/issues/2#issue-1757529340
+
+https://github.com/MOSTAFA-0-1/shop_app/assets/96666077/ad02fff2-4099-410a-acb2-2b00b603abff
+
+
 ## Features
 
 - Multi products and categories:  Users can easily navigate through the available categories and products.
