@@ -1,11 +1,11 @@
 # Shop App with Flutter
 
 This is a mobile application built with Flutter that allows users to buy  various products. 
-sign in 
+
 https://github.com/MOSTAFA-0-1/shop_app/assets/96666077/78467613-86b6-49a8-b87b-b145a3f3fd5c
-home | product details | cart | favorites screens vidio
+
 https://github.com/MOSTAFA-0-1/shop_app/issues/2#issue-1757529340 
-categories & cat_products | search | profile screens 
+
 https://github.com/MOSTAFA-0-1/shop_app/assets/96666077/ad02fff2-4099-410a-acb2-2b00b603abff
 
 
